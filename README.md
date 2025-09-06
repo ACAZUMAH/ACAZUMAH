@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [SkillSwap frontend](https://github.com/ACAZUMAH/SkillSwap-FrontEnd) and [SkillSwap backend](https://github.com/ACAZUMAH/SkillSwap-Backend)
 
-- 🌱 I’m currently learning *ALX - Backend course,*
+- 🌱 I’m currently learning *Go - Backend course,* and *Udemy - Software Engineering course*
 
 - 👯 Collaborated to build - a instagram-style app designed for sharing quick pictures of life in a fun, fast, and intuitive way [Expogram](https://github.com/EXPORGRAM/EXPOGRAM)
 
