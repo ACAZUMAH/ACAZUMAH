@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ACAZUMAH" alt="ACAZUMAH" /></a> </p>
 
-- 🔭 I’m currently working on [SkillSwap frontend](https://github.com/ACAZUMAH/SkillSwap-FrontEnd) and [SkillSwap backend](https://github.com/ACAZUMAH/SkillSwap-Backend)
+- 🔭 I’m currently working at LivelyCura
 
 - 🌱 I’m currently learning *Go - Backend course,* and *Udemy - Software Engineering course*
 
