@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ACAZUMAH" alt="ACAZUMAH" /></a> </p>
 
-- 🔭 I’m currently working at LivelyCura
+- 🔭 I’m currently working at *LivelyCura*
 
-- 🌱 I’m currently learning *Go - Backend course,* and *Udemy - Software Engineering course*
+- 🌱 I’m currently learning *Go - Backend Course,* and *React Native - Mobile App Development*
 
 - 👯 Collaborated to build - a instagram-style app designed for sharing quick pictures of life in a fun, fast, and intuitive way [Expogram](https://github.com/EXPORGRAM/EXPOGRAM)
 
