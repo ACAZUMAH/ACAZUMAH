@@ -1,5 +1,5 @@
 <h1 align="center">👋Hey there, Caleb Azumah Asakwin</h1>
-<h3 align="center">I’m a Computer Science student at Kwame Nkrumah University of Science and Technology (KNUST) and passionate software engineer with two years of experience developing and implementing innovative software solutions. I am dedicated to delivering software solutions that drive business success. I am eager to learn and contribute my expertise to a forward-thinking organization that values innovation, teamwork, and continuous learning.  Let’s build the future, one line of code at a time.</h3>
+<h4 align="center">I’m a Computer Science student at Kwame Nkrumah University of Science and Technology (KNUST) and passionate software engineer with two years of experience developing and implementing innovative software solutions. I am dedicated to delivering software solutions that drive business success. I am eager to learn and contribute my expertise to a forward-thinking organization that values innovation, teamwork, and continuous learning.  Let’s build the future, one line of code at a time.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ACAZUMAH&label=Profile%20views&color=0e75b6&style=flat" alt="ACAZUMAH" /> </p>
 
