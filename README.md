@@ -14,7 +14,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Express.js](https://img.shields.io/badge/-Expressjs-05122A?style=flat&logo=express.js)&nbsp;
+![Express.js](https://img.shields.io/badge/-Expressjs-05122A?style=flat&logo=expressjs)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![React Native](https://img.shields.io/badge/-Reactnative-05122A?style=flat&logo=reactnative)&nbsp;
