@@ -49,16 +49,9 @@
 
 #
 
-### 🤝🏻 &nbsp;Connect with Me
-<p align="center">
-<a href="https://www.linkedin.com/in/caleb-azumah-052620284/"><img src="https://img.shields.io/badge/-caleb-azumah-052620284=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:calebazumah9@gmail.com"><img src="https://img.shields.io/badge/-calebazumah9@gmail.com?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-</p>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/DcWhizzberg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RajeshReddyDEV" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/caleb-azumah-052620284/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RajeshReddy" height="30" width="40" /></a>
-<a href="https://www.instagram.com/devazumah" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="RajeshReddy" height="30" width="40" /></a>
+<a href="mailto:calebazumah9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://x.com/DcWhizzberg" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/caleb-azumah-052620284/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
+</p>
