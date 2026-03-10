@@ -11,7 +11,7 @@
 - ✉️ &nbsp;You can shoot me an email at *calebazumah9@gmail.com* I'll try to respond as soon as I can.\
 - 👨‍💻 &nbsp;All of my projects are available at [https://github.com/ACAZUMAH](https://github.com/ACAZUMAH)
 
-### 🛠 &nbsp;Tech Stack
+# 🛠 &nbsp;Tech Stack:
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Expressjs-05122A?style=flat&logo=expressjs)&nbsp;
@@ -37,6 +37,13 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ACAZUMAH&theme=dark&hide_border=false" />
 </a>
 </p>
+
+#
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+#
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
