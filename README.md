@@ -34,6 +34,7 @@
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ACAZUMAH&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ACAZUMAH&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ACAZUMAH&theme=dark&hide_border=false />
 </a>
 </p>
 
@@ -43,9 +44,3 @@
 <a href="https://www.linkedin.com/in/caleb-azumah-052620284/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RajeshReddy" height="30" width="40" /></a>
 <a href="https://www.instagram.com/devazumah" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="RajeshReddy" height="30" width="40" /></a>
 
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ACAZUMAH&show_icons=true&locale=en&layout=compact" alt="ACAZUMAH" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ACAZUMAH&show_icons=true&locale=en" alt="ACAZUMAH" /></p>
