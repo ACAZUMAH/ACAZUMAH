@@ -8,10 +8,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ACAZUMAH&label=Profile%20views&color=0e75b6&style=flat" alt="ACAZUMAH" /> </p>
 
 # 📌 &nbsp;About Me
-- 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-- 🎓 &nbsp;I'm currently studying Computer Science and at Kwame Nkrumah University of Science and Technology.\
-- 🌱 &nbsp;I’m currently learning *Go - Backend Course,* and *AWS - Cloud Practioner*.\
-- ✉️ &nbsp;You can shoot me an email at *calebazumah9@gmail.com* I'll try to respond as soon as I can.\
+- 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
+- 🎓 &nbsp;I'm currently studying Computer Science and at Kwame Nkrumah University of Science and Technology.
+- 🌱 &nbsp;I’m currently learning *Go - Backend Course,* and *AWS - Cloud Practioner*.
+- ✉️ &nbsp;You can shoot me an email at *calebazumah9@gmail.com* I'll try to respond as soon as I can.
 - 👨‍💻 &nbsp;All of my projects are available at [https://github.com/ACAZUMAH](https://github.com/ACAZUMAH)
 
 # 🏆 &nbsp;GitHub Trophies
