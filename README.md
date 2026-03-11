@@ -7,9 +7,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ACAZUMAH&label=Profile%20views&color=0e75b6&style=flat" alt="ACAZUMAH" /> </p>
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4" /> </p>
+# 🏆 &nbsp;GitHub Trophies
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophies"/> </p>
 
-# About Me
+# 📌 &nbsp;About Me
 - 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 - 🎓 &nbsp;I'm currently studying Computer Science and at Kwame Nkrumah University of Science and Technology.\
 - 🌱 &nbsp;I’m currently learning *Go - Backend Course,* and *AWS - Cloud Practioner*.\
@@ -35,7 +36,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-# 📊 GitHub Stats:
+# 📊 &nbsp;GitHub Stats:
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ACAZUMAH&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
