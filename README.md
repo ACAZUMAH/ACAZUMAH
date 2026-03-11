@@ -7,6 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ACAZUMAH&label=Profile%20views&color=0e75b6&style=flat" alt="ACAZUMAH" /> </p>
 
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4" /> </p>
+
 # About Me
 - 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 - 🎓 &nbsp;I'm currently studying Computer Science and at Kwame Nkrumah University of Science and Technology.\
