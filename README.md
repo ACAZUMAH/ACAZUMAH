@@ -7,8 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ACAZUMAH&label=Profile%20views&color=0e75b6&style=flat" alt="ACAZUMAH" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ACAZUMAH" alt="ACAZUMAH" /></a> </p>
-
+# About Me
 - 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 - 🎓 &nbsp;I'm currently studying Computer Science and at Kwame Nkrumah University of Science and Technology.\
 - 🌱 &nbsp;I’m currently learning *Go - Backend Course,* and *AWS - Cloud Practioner*.\
@@ -48,5 +47,5 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# Connect With Me
+# Connect With Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/devazumah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caleb-azumah-052620284/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DcWhizzberg)
